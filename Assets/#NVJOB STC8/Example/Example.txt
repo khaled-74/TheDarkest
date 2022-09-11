@@ -1,0 +1,2 @@
+There are no examples in the asset because the SpeedTree license prohibits the distribution of SpeedTree files to other marketplaces.
+You can download the examples separately on GitHub (https://github.com/nvjob/stc8), or just use the instruction included in the asset.
